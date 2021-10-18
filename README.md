@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 
 <div> 
   <a href="https://instagram.com/helocrazy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:heloisacamboim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/heloisacamboim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:heloisacamboim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/heloisacamboim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://codepen.io/heloisacamboim" target="_blank"><img src="https://img.shields.io/badge/-CodePen-%23333?style=for-the-badge&logo=codepen&logoColor=white"></a>
  
 ![Snake animation](https://github.com/heloisacamboim/heloisacamboim/blob/output/github-contribution-grid-snake.svg)
  
